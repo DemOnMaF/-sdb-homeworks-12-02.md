@@ -35,12 +35,16 @@
 <details>
 <summary>Ответ</summary>
 
+![image](img/1.2.png)
+
 </details>
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
 <details>
 <summary>Ответ</summary>
+
+![image](img/1.3.png)
 
 </details>
 
@@ -49,12 +53,16 @@
 <details>
 <summary>Ответ</summary>
 
+![image](img/1.4.png)
+
 </details>
 
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
 <details>
 <summary>Ответ</summary>
+
+![image](img/1/5.png)
 
 </details>
 
@@ -68,12 +76,16 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 <details>
 <summary>Ответ</summary>
 
+![image](img/1/6.png)
+
 </details>
 
 1.6. По ссылке https://downloads.mysql.com/docs/sakila-db.zip скачайте дамп базы данных.
 
 <details>
 <summary>Ответ</summary>
+
+![image](img/001.png)
 
 </details>
 
@@ -82,6 +94,8 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 <details>
 <summary>Ответ</summary>
 
+![image](img/001.png)
+
 </details>
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
@@ -89,6 +103,8 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 <details>
 <summary>Ответ</summary>
+
+![image](img/001.png)
 
 </details>
 
@@ -100,6 +116,8 @@ customer         | customer_id
 ```
 <details>
 <summary>Ответ</summary>
+
+![image](img/001.png)
 
 </details>
 
