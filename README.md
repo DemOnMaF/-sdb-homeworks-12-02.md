@@ -119,8 +119,8 @@ customer         | customer_id
 <details>
 <summary>Ответ</summary>
 
-![image](img/001.png)
-
+![image](img/01.png)
+Не понял задания
 </details>
 
 ## Дополнительные задания (со звёздочкой*)
