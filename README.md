@@ -53,8 +53,7 @@
 <details>
 <summary>Ответ</summary>
 
-![image](img/1.4.1.png)
-![image](img/1.4.2.png)
+![image](img/1.4.png)
 
 </details>
 
@@ -63,7 +62,8 @@
 <details>
 <summary>Ответ</summary>
 
-![image](img/1/5.png)
+![image](img/1.4.1.png)
+![image](img/1.4.2.png)
 
 </details>
 
