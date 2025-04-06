@@ -86,7 +86,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 <details>
 <summary>Ответ</summary>
 
-![image](img/001.png)
+![image](img/1.6.2.png)
 
 </details>
 
