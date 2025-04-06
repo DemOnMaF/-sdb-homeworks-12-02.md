@@ -25,6 +25,8 @@
 
 <details>
 <summary>Ответ</summary>
+   
+![image](img/1.1.png)
 
 </details>
 
