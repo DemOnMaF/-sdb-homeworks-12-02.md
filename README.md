@@ -35,7 +35,7 @@
 <details>
 <summary>Ответ</summary>
 
-![image](img/1.2.png)
+![image](img/1.02.png)
 
 </details>
 
@@ -44,7 +44,7 @@
 <details>
 <summary>Ответ</summary>
 
-![image](img/1.3.png)
+![image](img/1.2.png)
 
 </details>
 
