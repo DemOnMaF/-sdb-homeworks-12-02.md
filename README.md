@@ -22,13 +22,38 @@
 ### Задание 1
 1.1. Поднимите чистый инстанс MySQL версии 8.0+. Можно использовать локальный сервер или контейнер Docker.
 
+<details>
+<summary>Ответ</summary>
+
+</details>
+
 1.2. Создайте учётную запись sys_temp. 
+
+<details>
+<summary>Ответ</summary>
+
+</details>
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
+<details>
+<summary>Ответ</summary>
+
+</details>
+
 1.4. Дайте все права для пользователя sys_temp. 
 
+<details>
+<summary>Ответ</summary>
+
+</details>
+
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
+
+<details>
+<summary>Ответ</summary>
+
+</details>
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
@@ -36,9 +61,25 @@
 ```sql
 ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 ```
+
+<details>
+<summary>Ответ</summary>
+
+</details>
+
 1.6. По ссылке https://downloads.mysql.com/docs/sakila-db.zip скачайте дамп базы данных.
 
+<details>
+<summary>Ответ</summary>
+
+</details>
+
 1.7. Восстановите дамп в базу данных.
+
+<details>
+<summary>Ответ</summary>
+
+</details>
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
