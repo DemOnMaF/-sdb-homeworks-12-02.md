@@ -107,6 +107,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 <summary>Ответ</summary>
 
 ![image](img/1.8.png)
+![image](img/2.1.png)
 
 </details>
 
@@ -119,7 +120,7 @@ customer         | customer_id
 <details>
 <summary>Ответ</summary>
 
-![image](img/2.1.png)
+
 ![image](img/2.2.png)
 
 </details>
