@@ -120,8 +120,28 @@ customer         | customer_id
 <details>
 <summary>Ответ</summary>
 
+```
+Название таблицы | Название первичного ключа
+customer         | customer_id
+rental           | rental_id
+payment          | payment_id
+store            | store_id
+inventory        | inventory_id
+staff            | staff_id
+address          | address_id
+city             | city_id
+country          | country_id
+film             | film_id
+language         | language_id
+film_actor       | actore_id  film_id
+actore           | actore_id
+category         | category_id
+film_category    | film_id  category_id
+film_text        | film_id
 
-![image](img/2.2.png)
+```
+
+
 
 </details>
 
